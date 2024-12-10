@@ -48,5 +48,7 @@ requirements for creating charts:
 ## SOFTWARE USED:
  1. MS OFFICE/EXCEL
  2. SQL SERVER MANAGEMENT STUDIO
-    
+
+
    
+![pizza image](https://github.com/user-attachments/assets/846e6e8b-2691-45bf-ac2f-8e68e907afab)
