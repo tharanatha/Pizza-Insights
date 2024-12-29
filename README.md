@@ -49,6 +49,9 @@ requirements for creating charts:
  1. MS OFFICE/EXCEL
  2. SQL SERVER MANAGEMENT STUDIO
 
+## Excel Dashboard 
+
+![image](https://github.com/user-attachments/assets/1e31e3a8-bf92-40f0-ae07-e4c441689024)
 
    
-![pizza image](https://github.com/user-attachments/assets/846e6e8b-2691-45bf-ac2f-8e68e907afab)
+
